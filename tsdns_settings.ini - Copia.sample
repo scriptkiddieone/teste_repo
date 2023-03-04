@@ -53,3 +53,10 @@
 # but you should make sure to store this configuration file as UTF8 encoded
 # document.
 #
+#127.0.0.1
+# public.teamspeak.com=12.13.14.15:10000
+# test.teamspeak.com=12.13.14.15:12000
+# private.teamspeak.com=12.13.14.15:14000
+# voice.teamspeak.com=NORESPONSE
+# *.teamspeak-systems.de=1.2.3.4:15000
+# *=12.13.14.15:$PORT
